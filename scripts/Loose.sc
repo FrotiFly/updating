@@ -2,6 +2,7 @@ __config() -> {
   'stay_loaded'->false
 };
 
+run('/say updated to 1.112');
 
 run('/title @p[name=!Bot] title {"text":"You Lost","color":"red"}');
 run('/title @p[name=!Bot] subtitle {"text":"Oof you lost","color":"red"}');
