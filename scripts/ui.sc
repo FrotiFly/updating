@@ -4,6 +4,8 @@ loadbot() -> (
 
 );
 
+print('update 1.1.2');
+
 xd() -> (
   
   run('/gamemode adventure @p[name=!FrostifyZX]');
